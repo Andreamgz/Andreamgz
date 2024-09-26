@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Andrea👋</h1>
+<h1 align="center">Hello!, I'm Andrea👋</h1>
 </div>
 
 ![https://github.com/Andreamgz](/banner_git.png)
