@@ -2,8 +2,8 @@
 <h1 align="center">Hola, soy Andrea👋</h1>
 </div>
 
-![https://github.com/Andreamgz](/.bannergit.png)
 
+![https://github.com/Andreamgz](/.andreamgz_github_profile.png)
 
 
 I am a professional in Marketing and Advertising, specializing in data analysis applied to marketing. I am passionate about turning data into valuable insights for strategic decision-making. 
