@@ -15,7 +15,7 @@ Always eager to learn new tools like SQL, Python, and digital marketing techniqu
 - 👩🏻‍💼 Interests in business
 - 📖 Self-taught person with a great desire to learn
 - 📲 I like to venture into sectors that I don't know to learn more
-- - 📫 Feel free to reach me out **andreamg1032@hotmail.com**
+- 📫 Feel free to reach me out **andreamg1032@hotmail.com**
 
   <br>
 
