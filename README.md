@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Andrea Martín👋</h1>
+<h1 align="center">Hola, soy Andrea👋</h1>
 </div>
 <img src="https://imgur.com/5vikhM8">
 
@@ -9,7 +9,14 @@ I am a professional in Marketing and Advertising, specializing in data analysis 
 Currently, I’m working on projects related to databases, data visualization, and user behavior analysis. I’m actively seeking further education to enhance my knowledge and continue developing my professional career. 
 Always eager to learn new tools like SQL, Python, and digital marketing techniques.
 
+## A little more about me : 
 
+- 💻 Computer lover 
+- 👩🏻‍💼 Interests in business
+- 📖 Self-taught person with a great desire to learn
+- 📲 I like to venture into sectors that I don't know to learn more
+
+  <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
